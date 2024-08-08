@@ -1,20 +1,9 @@
-# Angular Homes App
-- Install Angular if you don't have it installed
+Copyright <YEAR> <COPYRIGHT HOLDER>
 
-  `npm install -g @angular/cli`
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-- Clone this branch to your local machine
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
-
-- Once the code has been downloaded
-
-  `cd homes-app`
-
-- Install the depencies
-
-  `npm install` 
-
-- Run the application 
-
-  `ng serve`
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+![Screenshot 2024-08-07 223332](https://github.com/user-attachments/assets/bdbc1be3-358a-478c-93cf-6f009274db5b)
+![Screenshot 2024-08-07 223631](https://github.com/user-attachments/assets/642fc8bd-2ac5-43e6-a287-99c8e2a0af22)
